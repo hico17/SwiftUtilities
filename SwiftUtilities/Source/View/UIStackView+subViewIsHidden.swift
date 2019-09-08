@@ -3,7 +3,7 @@
 //  Serpenti
 //
 //  Created by Luca Celiento on 17/04/2019.
-//  Copyright © 2019 System Management. All rights reserved.
+//  Copyright © 2019 Luca Celiento. All rights reserved.
 //
 
 import UIKit
